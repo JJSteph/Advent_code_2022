@@ -1,6 +1,6 @@
 # 
 # Advent of code 2022
-# Day 7 pt 1
+# Day 8 pt 1
 # 12/8/2022
 #  
 
